@@ -2,15 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8366fd48-2f9e-4b80-9e3d-50554a75fd8e" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/content/assets/gatsby-icon.png" afterPath="$PROJECT_DIR$/contents/assets/gatsby-icon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/content/assets/profile-pic.jpg" afterPath="$PROJECT_DIR$/contents/assets/profile-pic.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/content/blog/example.mdx" afterPath="$PROJECT_DIR$/contents/blog/example.mdx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/content/blog/hello-world/index.md" afterPath="$PROJECT_DIR$/contents/blog/hello-world/index.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/content/blog/hello-world/salty_egg.jpg" afterPath="$PROJECT_DIR$/contents/blog/hello-world/salty_egg.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/content/blog/hi-folks/index.mdx" afterPath="$PROJECT_DIR$/contents/blog/hi-folks/index.mdx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/content/blog/my-second-post/index.md" afterPath="$PROJECT_DIR$/contents/blog/my-second-post/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gatsby-config.js" afterPath="$PROJECT_DIR$/gatsby-config.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/config.yml" afterPath="$PROJECT_DIR$/static/admin/config.yml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -56,11 +47,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/admin/config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="21" />
+            <state relative-caret-position="315">
+              <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -100,11 +91,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gatsby-config.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="gatsby-config.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gatsby-config.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="344">
-              <caret line="67" column="8" lean-forward="true" selection-start-line="67" selection-start-column="8" selection-end-line="67" selection-end-column="8" />
+              <caret line="67" column="8" lean-forward="false" selection-start-line="67" selection-start-column="8" selection-end-line="67" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -144,8 +135,8 @@
       <list>
         <option value="$PROJECT_DIR$/public/admin/config.yml" />
         <option value="$PROJECT_DIR$/content/blog/hello-world/index.md" />
-        <option value="$PROJECT_DIR$/static/admin/config.yml" />
         <option value="$PROJECT_DIR$/gatsby-config.js" />
+        <option value="$PROJECT_DIR$/static/admin/config.yml" />
       </list>
     </option>
   </component>
@@ -424,12 +415,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578053766176</updated>
-      <workItem from="1578053768114" duration="3989000" />
+      <workItem from="1578053768114" duration="4280000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3989000" />
+    <option name="totallyTimeSpent" value="4280000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1005" extended-state="6" />
@@ -574,18 +565,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/admin/config.yml">
+    <entry file="file://$PROJECT_DIR$/gatsby-config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="21" />
+        <state relative-caret-position="344">
+          <caret line="67" column="8" lean-forward="false" selection-start-line="67" selection-start-column="8" selection-end-line="67" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gatsby-config.js">
+    <entry file="file://$PROJECT_DIR$/static/admin/config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="67" column="8" lean-forward="true" selection-start-line="67" selection-start-column="8" selection-end-line="67" selection-end-column="8" />
+        <state relative-caret-position="315">
+          <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
           <folding />
         </state>
       </provider>
