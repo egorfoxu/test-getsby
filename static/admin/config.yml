@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: github
+  repo: egorfoxu/test-getsby
 
 media_folder: static/assets
 public_folder: assets
@@ -15,3 +16,11 @@ collections:
       - { name: title, label: Title }
       - { name: description, label: Description }
       - { name: body, label: Body, widget: markdown }
+
+  - name: 'faq' # Used in routes, ie.: /admin/collections/:slug/edit
+    label: 'FAQ' # Used in the UI
+    folder: '_faqs'
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - { label: 'Question', name: 'title', widget: 'string', tagname: 'h1' }
+      - { label: 'Answer', name: 'body', widget: 'markdown' }
